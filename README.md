@@ -54,7 +54,7 @@ To achieve efficient training on consumer hardware (e.g., RTX 5000 Ada), the fol
 ## 📊 Training Logs & Statistics
 
 ### Dataset Statistics (`input-1.txt`)
-*(Populated from inspection script)*
+
 - **Total Characters**: 1,115,394
 - **Total Lines**: 40,000
 - **Unique Characters**: 65
@@ -490,4 +490,5 @@ Checkpoint saved to checkpoint_10000.pt
 - `training.ipynb`: Interactive training notebook.
 - `train_deepseek.py`: Standalone training script.
 - `input-1.txt`: Training dataset.
+
 
