@@ -413,19 +413,18 @@ Checkpoint saved to checkpoint_10000.pt
 
         
         Generation 1:
-        Generated: The future of AI is his kin:
-        He is, my lords, to reap them to the Tower.
-        
-        NORTHUMBERLAND:
-        He hath been ta'en, and all the sky
-        The sland hath been breathing high,
-        Which often up Lancaster, to let him speak;
-        And therefore, if the duke sleep under him,
-        And give him not only.
-        
-        LORD ROSS:
-        It is excellent, gentle Warwick, and thou art
-        And all the duke
+
+        Generated: The future of AI is hot;
+        Who shall be the vantage of that,
+        Who wooer the vantage of the world,
+        Make me, for a day to fight,
+        When he did thy woe; but in those things
+        After the blushing blood in the world,
+        Call for a, not one infect another,
+        From your holy kingly on the world,
+        Be ready to't, or if thou wilt the world,
+        Is more but green where I thy dost confess,
+
         
         Generation 2:
         Generated: Once upon a time;
@@ -471,18 +470,17 @@ Checkpoint saved to checkpoint_10000.pt
         Of watery Neptune, and not our
         
         Generation 5:
-        Generated: Python is a programming language that is Elys
-        Even in the best of your infant.
+
+        Generated: Python is a programming language that I know,
+        Still such a goodly have been more than in my fault,
+        And, if you would not this night, I'll be gone:
+        And since this time, alack, for your brother,
+        And, in this time, is no farther offend,
+        And in the pate of those sciences,
+        That it should die before your brother's hate.
         
-        HENRY BOLINGBROKE:
-        Thy pains appellant and thy worth;
-        But here Prince Florizel for my ground:
-        Had I been willing to lament the regal
-        The worst of my balmity with that time
-        I'ldominable to be punish'd.
-        
-        KING RICHARD II:
-        Dost thou attend me so? thou hast hawks will adder
+        GRUMIO:
+        O, madam, keep mine eye the time of wooing
         -------------------------------------
 
 ## 📂 File Structure
@@ -490,5 +488,6 @@ Checkpoint saved to checkpoint_10000.pt
 - `training.ipynb`: Interactive training notebook.
 - `train_deepseek.py`: Standalone training script.
 - `input-1.txt`: Training dataset.
+
 
 
