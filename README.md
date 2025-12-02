@@ -407,6 +407,14 @@ KING RICHARD II:
 
 Checkpoint saved to checkpoint_10000.pt
 ```
+**Log Analysis**
+
+The final loss is 0.0083, which indicates severe overfitting. 
+
+**Reason:** The dataset (input-1.txt) used for training is only ~1MB. Training for 10,000 steps means the model saw the same data over 500 times (epochs), memorizing it completely.
+**Solution:** To get a realistic loss for 10,000 steps, we need a much larger dataset.
+
+As a future experiment, I will update the training code to use a larger dataset. This will provide enough unique data for the model to learn general patterns without memorizing.
 
 ### Generation Output (After 10k Steps)
 
@@ -488,6 +496,7 @@ Checkpoint saved to checkpoint_10000.pt
 - `training.ipynb`: Interactive training notebook.
 - `train_deepseek.py`: Standalone training script.
 - `input-1.txt`: Training dataset.
+
 
 
 
